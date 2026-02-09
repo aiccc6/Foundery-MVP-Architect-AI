@@ -1,6 +1,7 @@
 ## 🎥 Project Showcase
 
-[![Watch the demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/KXP1CEOJjUM?si=ZhFd_ikWPLCts1dc))
+[![Watch the demo](https://img.youtube.com/vi/KXP1CEOJjUM?si=ZhFd_ikWPLCts1dc/0.jpg)](https://www.youtube.com/watch?v=KXP1CEOJjUM?si=ZhFd_ikWPLCts1dc)
+
 
 
 <div align="center">
