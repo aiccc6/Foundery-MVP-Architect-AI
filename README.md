@@ -2,24 +2,6 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-export default function Home() {
-  return (
-    <main>
-      <h1>Run and Deploy Your AI Studio App</h1>
-
-      <div style={{ display: "flex", justifyContent: "center", marginTop: "30px" }}>
-        <iframe
-          width="900"
-          height="500"
-          src="[https://www.youtube.com/embed/YOUR_VIDEO_ID](https://youtu.be/KXP1CEOJjUM?si=ZhFd_ikWPLCts1dc)"
-          title="AI Studio Project Showcase"
-          frameBorder="0"
-          allowFullScreen
-        ></iframe>
-      </div>
-    </main>
-  );
-}
 
 
 # Run and deploy your AI Studio app
