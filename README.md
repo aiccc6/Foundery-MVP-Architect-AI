@@ -18,7 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1TY8_jN0VQv-r3jUzTHD4gf
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:**  Node.js, google gemini api key
 
 
 1. Install dependencies:
